@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and Python
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on projects that need Data Science
-- 📫 How to reach me serbioaguilar@gmail.com
+- 📫 How to reach me: serbioaguilar@gmail.com or www.linkedin.com/in/serbioaguilar
 - 😄 Pronouns: he/him
 
 <!---
